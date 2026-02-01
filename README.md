@@ -95,21 +95,6 @@ Machine Learning Engineer | GenAI Engineer | LLM | RAG | LangChain | LlamaIndex 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/CQWUWYvgPV?theme=light&font=Karma)](https://leetcode.com/u/CQWUWYvgPV/)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kshitijkasabekar&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kshitijkasabekar" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kshitijkasabekar" />
-</p>
 
 ---
 
