@@ -100,13 +100,17 @@ Machine Learning Engineer | GenAI Engineer | LLM | RAG | LangChain | LlamaIndex 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitijkasabekar&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kshitijkasabekar&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitijkasabekar&show_icons=true&theme=default&cache_seconds=1800" referrerpolicy="no-referrer" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkasabekar&layout=compact&theme=default" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=kshitijkasabekar&theme=default" referrerpolicy="no-referrer" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kshitijkasabekar&layout=compact&theme=default&cache_seconds=1800" referrerpolicy="no-referrer" />
+</p>
+
 
 
 ---
