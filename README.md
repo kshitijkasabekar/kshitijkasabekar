@@ -13,6 +13,8 @@ I love transforming research ideas into production-grade applications and APIs.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kshitij%20Kasabekar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kshitij-kasabekar-809346236/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Kshitij-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/CQWUWYvgPV/)
 [![Gmail](https://img.shields.io/badge/Email-kshitijkasabekar@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kshitijkasabekar@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kshitijkasabekar)
+
 
 ---
 
@@ -94,9 +96,6 @@ Machine Learning Engineer | GenAI Engineer | LLM | RAG | LangChain | LlamaIndex 
 ## 🧩 Coding Profiles
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/CQWUWYvgPV?theme=light&font=Karma)](https://leetcode.com/u/CQWUWYvgPV/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kshitijkasabekar)
-
 
 ---
 
