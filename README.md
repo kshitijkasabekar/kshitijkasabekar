@@ -95,6 +95,8 @@ Machine Learning Engineer | GenAI Engineer | LLM | RAG | LangChain | LlamaIndex 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/CQWUWYvgPV?theme=light&font=Karma)](https://leetcode.com/u/CQWUWYvgPV/)
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kshitijkasabekar)
+
 
 ---
 
