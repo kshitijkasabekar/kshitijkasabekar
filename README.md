@@ -26,7 +26,7 @@ I love transforming research ideas into production-grade applications and APIs.
 
 ---
 
-## 🔑 Keywords (Recruiter & GitHub SEO)
+## 🔑 Keywords
 
 Machine Learning Engineer | GenAI Engineer | LLM | RAG | LangChain | LlamaIndex | AI Agents | NLP | Deep Learning | PyTorch | TensorFlow | FastAPI | Django REST | MLOps | Docker | Azure OpenAI | Google Cloud Platform | PostgreSQL | Redis | RabbitMQ | Computer Vision | CI/CD | Flutter
 
